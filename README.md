@@ -49,4 +49,3 @@ Follow these steps to set up and run the project on your local machine:
    - Open your browser and go to `http://localhost:8501`.
    - Draw a digit (0-9) on the canvas.
    - Click the "Predict" button to see the predicted digit and confidence score.
-   - Click the "Clear Canvas" button to reset the canvas and draw a new digit.
