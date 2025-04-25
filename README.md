@@ -12,7 +12,7 @@ This project implements a handwritten digit recognition system using PyTorch and
 ## Model Evaluation
 The following plots show the training and validation loss/accuracy over 10 epochs:
 
-![Model Evaluation](mnist_training_plots.png)
+![Model Evaluation](img/mnist_training_plots.png)
 ## Prerequisites
 - Python 3.7 or higher
 - Git (to clone the repository)
@@ -50,3 +50,4 @@ Follow these steps to set up and run the project on your local machine:
    - Draw a digit (0-9) on the canvas.
    - Click the "Predict" button to see the predicted digit and confidence score.
    - Click the "Clear Canvas" button to reset the canvas and draw a new digit.
+![Running the Streamlit App](img/sample.png)
