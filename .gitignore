@@ -1,11 +1,2 @@
-# Ignore Python cache and temporary files
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Ignore other temporary files
-*.log
-*.tmp
-
+__pycache__
 data
