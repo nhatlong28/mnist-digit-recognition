@@ -7,7 +7,7 @@ This project implements a handwritten digit recognition system using PyTorch and
 - `train.ipynb`: Jupyter notebook containing the code to train the ConvNet model on the MNIST dataset.
 - `mnist_training_plots.png`: Image showing the training and validation loss/accuracy plots.
 - `requirements.txt`: List of Python dependencies required to run the project.
-- `best_model.pth`: Pre-trained model file (not included in the repository due to size; see instructions below to obtain it).
+- `best_model.pth`: Pre-trained model file.
 
 ## Model Evaluation
 The following plots show the training and validation loss/accuracy over 10 epochs:
