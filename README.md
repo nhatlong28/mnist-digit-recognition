@@ -23,7 +23,7 @@ Follow these steps to set up and run the project on your local machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Longnn28/mnist-digit-recognition.git
+   git clone https://github.com/nhatlong28/mnist-digit-recognition.git
    cd mnist-digit-recognition
    ```
 
